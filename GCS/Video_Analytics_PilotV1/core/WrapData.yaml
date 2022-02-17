@@ -1,0 +1,6 @@
+parameters:      
+  fileext                 : _file.csv
+  logext                  : _log.csv
+  frameext                : _frame.csv
+  framedetailsext         : _framedetails.csv
+  bufferseconds           : 1                     # number of seconds before and after each batch to be padded while creating compressed video.

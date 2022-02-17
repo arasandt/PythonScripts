@@ -1,0 +1,15 @@
+parameters:      
+  fileext                 : _file.csv
+  logext                  : _log.csv
+  frameext                : _frame.csv
+  framedetailsext         : _framedetails.csv
+  framerank               : 1.0                   # choose the frame which has biggest motion value to do person detection
+  modelminconfidence      : 0.2
+  modelpersonclassid      : 0
+  modelnmsconfidence      : 0.3
+  modelnmsthreshold       : 0.5
+  nnscale                 : 0.00392
+  nnspatialsize           : !!python/tuple [416,416]
+  nnmeansubtraction       : !!python/tuple [0,0]
+  nnswapRB                : True
+  nncrop                  : False

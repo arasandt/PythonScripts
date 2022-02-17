@@ -1,0 +1,13 @@
+Module,StudentGroup,Weekday,Avenue,Time
+Elective1,StudentGroup1,Mon,Hall A,9 to 10
+Elective1,StudentGroup1,Tue,Hall A,11 to 12
+Elective2,StudentGroup2,Mon,Hall B,9 to 10
+Elective2,StudentGroup1,Tue,Hall A,9 to 10
+Elective1,StudentGroup2,Tue,Hall B,12 to 13
+Elective2,StudentGroup2,Tue,Hall B,10 to 11
+Elective2,StudentGroup1,Tue,Hall A,12 to 13
+Elective2,StudentGroup1,Mon,Hall B,11 to 12
+Elective1,StudentGroup2,Mon,Hall A,10 to 11
+Elective2,StudentGroup2,Mon,Hall B,10 to 11
+Elective2,StudentGroup2,Tue,Hall A,11 to 12
+Elective1,StudentGroup2,Mon,Hall B,12 to 13

@@ -1,0 +1,13 @@
+parameters:      
+  fileext                 : _file.csv
+  logext                  : _log.csv
+  frameext                : _frame.csv
+  framedetailsext         : _framedetails.csv
+  trackeralgo             : CSRT
+  videocontainerdef       : avi
+  videocompressiondef     : xvid
+  ffmpegcrfdef            : 22 
+  ffmegcontainerdef       : mkv
+  ffmpegcompressiondef    : libx264
+  srtext                  : .srt
+  subtitletimezone        : America/New_York

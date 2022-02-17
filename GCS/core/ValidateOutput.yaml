@@ -1,0 +1,4 @@
+parameters:      
+  fileext                 : _file.csv
+  logext                  : _log.csv
+  frameext                : _frame.csv

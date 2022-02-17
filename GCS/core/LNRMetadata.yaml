@@ -1,0 +1,8 @@
+parameters:      
+  fileext                : _file.csv
+  logext                 : _log.csv
+  rawcrf                 : 18
+  rawcodec               : h264
+  outputvideocodec       : libx264
+  suppressffmpeg         : False
+  framebytesext          : _bytes.csv

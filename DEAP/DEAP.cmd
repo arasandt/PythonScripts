@@ -1,0 +1,1 @@
+C:\Windows\System32\cmd.exe /k "activate %~n0 & cls"

@@ -1,0 +1,13 @@
+parameters:      
+  fileext                : _file.csv
+  logext                 : _log.csv
+  motionblur             : !!python/tuple [21,21]
+  motionlearningrate     : 0.001
+  motioncapture          : False
+  videoext               : .
+  videocontainer         : avi
+  videocompression       : xvid
+  metadatacompression    : gzip
+  metadatacompressionext : .parquet.gzip
+  frameext               : _frame.csv
+  suppressffmpeg         : False
